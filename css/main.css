@@ -21,7 +21,7 @@ h1 {
 margin-left: 115px;
 }
 /*Background Image*/
-img {
+body.background {
 width: 100%;
 height: auto;  
 }
