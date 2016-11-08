@@ -21,14 +21,10 @@ h1 {
 margin-left: 115px;
 }
 /*Background Image*/
-body {
-background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg");
+img {
+width: 100%;
+height: auto;  
 }
-background-image-width: 100%;
-background-image-height: auto;
-
-
-
 /* My own edit. Styling nav bar.*/
 
 ul.sidenav {
