@@ -13,7 +13,7 @@ html {
     font-size: 1em;
     line-height: 1.4;
    font-family: "Sakkal Majalla";
-   background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg") no-repeat center center fixed;
+   background: url("../img/Mohamed_Ali_Mosque_HDR.jpg") no-repeat center center fixed;
    -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
