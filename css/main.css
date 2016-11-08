@@ -17,6 +17,11 @@ html {
 p {
 margin-left: 115px;
 }
+/*Background Image*/
+body {
+Background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/1f/Mohamed_Ali_Mosque_HDR.jpg");
+}
+
 /* My own edit. Styling nav bar.*/
 
 ul.sidenav {
