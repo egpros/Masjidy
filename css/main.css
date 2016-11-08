@@ -13,6 +13,7 @@ html {
     font-size: 1em;
     line-height: 1.4;
    font-family: "Sakkal Majalla";
+   background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg");
 }
 p {
 margin-left: 115px;
@@ -21,12 +22,7 @@ h1 {
 margin-left: 115px;
 }
 /*Background Image*/
-body {    
-   background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg");
-   width: auto;
-   height: auto;      
-   background-size: contain;
-}
+
 /* My own edit. Styling nav bar.*/
 
 ul.sidenav {
