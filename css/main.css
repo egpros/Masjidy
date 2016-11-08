@@ -24,6 +24,9 @@ ul {
    position: fixed;
    overflow: auto;
 }
+li {
+   display: inline;
+}
 li a {
    display: block;
    width: 60px;
