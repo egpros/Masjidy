@@ -17,10 +17,12 @@ html {
 p {
 margin-left: 115px;
 }
+h1 {
+margin-left: 115px;
+}
 /*Background Image*/
 body {
-margin-left: 115px;
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/1f/Mohamed_Ali_Mosque_HDR.jpg");
+background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg");
 }
 
 /* My own edit. Styling nav bar.*/
