@@ -22,6 +22,7 @@ margin-left: 115px;
 }
 /*Background Image*/
 body {    
+   background-image: url("../img/Mohamed_Ali_Mosque_HDR.jpg");
    width: 100%;
    height: auto;     
    background-repeat: no-repeat; 
