@@ -15,7 +15,7 @@ html {
 }
 /* My own edit. Styling nav bar.*/
 
-ul {
+ul.sidenav {
    list-style-type: none;
    margin: 0;
    padding: 0;
@@ -24,17 +24,17 @@ ul {
    position: fixed;
    overflow: auto;
 }
-li {
+ul.sidenav li {
    display: inline;
 }
-li a {
+ul.sidenav li a {
    display: block;
    width: 60px;
    color: #000;
    padding: 8px 16px;
    text-decoration: none;
 }
-li a:hover {
+ul.sidenav li a:hover {
    background-color: #555;
    color: white;
 }
