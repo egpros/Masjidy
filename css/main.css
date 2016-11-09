@@ -27,8 +27,7 @@ html {
   background: black;
   border-top: 3px solid #ccc;
   border-bottom: 3px solid #ccc;
-  margin-top: 3.0em;
-  margin-left: 5.0em;
+  margin: 0 3em 0 3em;
 }
 p {
 margin-left: 115px;
