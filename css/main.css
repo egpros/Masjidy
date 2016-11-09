@@ -19,6 +19,16 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+/*bar*/
+.bar {
+  height: 4em;
+  padding-top: 2em;
+  opacity: 0.5;
+  background: black;
+  border-top: 3px solid #ccc;
+  border-bottom: 3px solid #ccc;
+  margin-top: 5.0em;
+}
 p {
 margin-left: 115px;
 }
