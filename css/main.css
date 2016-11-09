@@ -28,6 +28,7 @@ html {
   border-top: 3px solid #ccc;
   border-bottom: 3px solid #ccc;
   margin-top: 5.0em;
+  width: auto;
 }
 p {
 margin-left: 115px;
